@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		005F290A1CE0A45400434A43 /* DeepakAroraTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 005F29091CE0A45400434A43 /* DeepakAroraTests.swift */; };
+		005F290A1CE0A45400434A43 /* EgeIsCoding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 005F29091CE0A45400434A43 /* DeepakAroraTests.swift */; };
 		005F29111CE0A46600434A43 /* Utility.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00650DE51CE061A6006502A1 /* Utility.swift */; };
 		005F29121CE0A46D00434A43 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00650DD31CDF40DF006502A1 /* ViewController.swift */; };
 		005F29131CE0A47800434A43 /* DateViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 00650DCA1CDF40DF006502A1 /* DateViewCell.swift */; };
@@ -44,8 +44,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		005F29071CE0A45400434A43 /* DeepakAroraTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DeepakAroraTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		005F29091CE0A45400434A43 /* DeepakAroraTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeepakAroraTests.swift; sourceTree = "<group>"; };
+		005F29071CE0A45400434A43 /* EgeIsCoding.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DeepakAroraTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		005F29091CE0A45400434A43 /* EgeIsCoding.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeepakAroraTests.swift; sourceTree = "<group>"; };
 		005F290B1CE0A45400434A43 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00650DC11CDF40DF006502A1 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		00650DC21CDF40DF006502A1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
